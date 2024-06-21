@@ -1,4 +1,18 @@
 nginx
+# mysql
+mysql:latest
+mysql:8
+# mongodb
+mongo
+# os
+centos:latest
+centos:6
+centos:7
+ubuntu
+ubuntu:20.04
+ubuntu:22.04
+ubuntu:latest
+
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
