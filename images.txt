@@ -14,7 +14,7 @@
 # ubuntu:latest
 # mq
 # rabbitmq:latest
-rocketmq:latest
+apache/rocketmq
 
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
