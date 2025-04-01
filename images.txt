@@ -1,17 +1,17 @@
-nginx
+# nginx
 # mysql
-mysql:latest
-mysql:8
+# mysql:latest
+# mysql:8
 # mongodb
-mongo
+# mongo
 # os
-centos:latest
-centos:6
-centos:7
-ubuntu
-ubuntu:20.04
-ubuntu:22.04
-ubuntu:latest
+# centos:latest
+# centos:6
+# centos:7
+# ubuntu
+# ubuntu:20.04
+# ubuntu:22.04
+# ubuntu:latest
 # mq
 rabbitmq:latest
 
